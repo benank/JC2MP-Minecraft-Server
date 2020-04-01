@@ -16,3 +16,12 @@ Want to help development? Awesome! Here are a couple guidelines for helping out.
 
 I'll review your changes and let you know if there are any problems. If it's all good, I'll merge it with the main repo!
 
+## Credits
+[Sinister Rectus: Timer Extension](https://github.com/SinisterRectus/JC2MP-TimerExtension)
+
+[Philpax: nametags script](https://github.com/jc2mp/nametags)
+
+[Trix: playerlist script](https://github.com/jc2mp/playerlist)
+
+[Jasonmrc: TimeChange script](https://github.com/Jasonmrc/TimeChange)
+
