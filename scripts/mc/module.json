@@ -1,0 +1,16 @@
+{
+  "info": {
+    "author": "",
+    "author_url": "",
+    "description": "Auto-generated",
+    "name": "minecraft"
+  },
+  "resources": {
+	"All_Textures_PNG_IMG": "https://i.imgur.com/5cwdR2W.png",
+	"Hotbar_IMG": "https://i.imgur.com/Qz7tlJF.png",
+	"Hotbar_Selected_IMG": "https://i.imgur.com/I4w9oO1.png",
+	"Sun_IMG": "https://i.imgur.com/o1uvrxh.png",
+	"Crosshair_IMG": "https://i.imgur.com/u8FMNfG.png",
+	"Inventory_IMG": "https://i.imgur.com/Q9LUG1K.png"
+  }
+}
